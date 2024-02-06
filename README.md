@@ -22,7 +22,7 @@ Welcome to Socialio, a dynamic and engaging social media web app built with Reac
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/socialio.git`
+1. Clone the repository: `git clone https://github.com/rohan3155/Socialio.git`
 
 2. Install dependencies: `npm install`
 
@@ -30,7 +30,7 @@ Welcome to Socialio, a dynamic and engaging social media web app built with Reac
 
 4. Start the app: `npm start`
 
-5. Access the app at `http://localhost:3000` in your web browser.
+5. Access the app at `http://localhost:5173` in your web browser.
 
 ## Contributing
 
@@ -48,11 +48,7 @@ If you'd like to contribute to Socialio, please follow these steps:
 
 ## Issues
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/your-username/socialio/issues). Your feedback is valuable!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/rohan3155/socialio/issues). Your feedback is valuable!
 
 ## Acknowledgments
 
