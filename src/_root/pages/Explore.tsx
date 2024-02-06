@@ -99,7 +99,7 @@ const Explore = () => {
           <p className="w-full mt-10 text-center text-light-4">End of posts</p>
         ) : (
           posts.pages.map((item, index) => (
-            <GridPostList key={`page-${index}`} posts={item.documents} />
+            <GridPostList key={`page-${index}`} posts={item?.documents || []} />
           ))
         )}
       </div>

@@ -1,7 +1,6 @@
 import { Models } from "appwrite";
 
 
-// import { useGetCurrentUser } from "@/lib/react-query/queries";
 
 import GridPostList from "@/components/shared/GridPostList";
 import Loader from "@/components/shared/Loader";
